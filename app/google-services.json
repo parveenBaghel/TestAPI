@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16482270363",
+    "firebase_url": "https://testapiapp-b2975.firebaseio.com",
+    "project_id": "testapiapp-b2975",
+    "storage_bucket": "testapiapp-b2975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16482270363:android:1d43398fc804eb2cf69a3e",
+        "android_client_info": {
+          "package_name": "pb.parveenbaghel.testapiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16482270363-ph1uum391jj774atvmvgr93ksleectms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pb.parveenbaghel.testapiapp",
+            "certificate_hash": "3f99587e97ac8e68b32e3d310f1b2e4372bbcbfc"
+          }
+        },
+        {
+          "client_id": "16482270363-auv4bqi9h0gvj5pqe2m52akfqr2aabch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqW9rggX58Sw1hlK39cbHh3sobSL4_TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16482270363-auv4bqi9h0gvj5pqe2m52akfqr2aabch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

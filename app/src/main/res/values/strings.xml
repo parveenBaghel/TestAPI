@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestAPIApp</string>
+
+    <string name="admob_app_id">ca-app-pub-2214294348026246~7294862479</string>
+    <string name="banner_home_footer">ca-app-pub-2214294348026246/1300299768</string>
+    <string name="interstitial_full_screen">ca-app-pub-2214294348026246/3097786537</string>
+    <string name="rewarded_video">ca-app-pub-XXXXXXXX~XXXXXXXXXXX</string>
+
+    <string name="App_id">ca-app-pub-2214294348026246~404524197</string>
+    <string name="banner_id">ca-app-pub-2214294348026246/1387289049</string>
+    <string name="str_Notification">get Notification</string>
+    <string name="channel_name">Channel Name</string>
+
+</resources>
